@@ -1,7 +1,7 @@
 # InfoUpdate Artikel - New York Times V 2.0
 
 
-Sebuah sistem manajemen konten (CMS) untuk artikel dengan gaya New York Times. Dibangun dengan [Laravel](https://laravel.com/) dan [Bootstrap](https://getbootstrap.com/).
+Sebuah sistem manajemen konten (CMS) untuk artikel dengan gaya New York Times. 
 
 ## ✨ Fitur Utama
 
